@@ -1,5 +1,8 @@
 # 💫 About Me:
-Experienced web and app developer with a track record of successfully leading multiple projects. Proficient<br>in implementing MVVM structure using Java, Kotlin. Along with exposure to React Native, and ReactJS .<br>Specializes in crafting scalable, efficient, and clean code that influences architecture decisions for project<br>success
+Experienced web and app developer with a track record of successfully leading multiple projects. 
+Proficient<br>in implementing MVVM structure using Java, Kotlin. 
+Along with exposure to React Native, and ReactJS .
+Specializes in crafting scalable, efficient, and clean code that influences architecture decisions for project success.
 
 
 ## 🌐 Socials:
